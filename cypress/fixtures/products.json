@@ -1,0 +1,8 @@
+[{
+    "id": ".last-in-line > .product-container > .right-block > .button-container > .ajax_add_to_cart_button > span",
+    "name": "Printed Summer Dress"
+},
+{
+    "id":".last-line.first-item-of-tablet-line > .product-container > .right-block > .button-container > .ajax_add_to_cart_button > span",
+    "name": "Printed Chiffon Dress"
+}]
